@@ -1,26 +1,75 @@
-# CodeShortcutKeysArena
+# CodeShortcutKeysArena 🪄🎹
 
-Welcome to **CodeShortcutKeysArena**, the ultimate hub for mastering Visual Studio Code through the power of keyboard shortcuts!
-
-CodeShortcutKeysArena is not just a collection of shortcuts; it's a dynamic hub for boosting your coding efficiency and transforming your development experience.
+> [!TIP]
+> Welcome to **CodeShortcutKeysArena**, the ultimate hub for mastering Visual Studio Code through the power of keyboard shortcuts!
 
 ## 🚀 Essential Keyboard Shortcuts
 
-Here's a selection of key shortcuts to enhance your workflow in VSCode:
+### Editing Functions
 
+| Function                  |   Shortcut   |
+| :------------------------ | :----------: |
+| Cut Right                 |      ⌃K      |
+| Organize Imports          |     ⇧⌥O      |
+| Rename Occurrence         |     ⇧⌘L      |
+| Format Document           |     ⇧⌥F      |
+| Change language mode      |     ⌘K M     |
+| Shrink / expand selection | ⌃⇧⌘← or ⌃⇧⌘→ |
 
-| Function                                | Shortcut     |
-|-----------------------------------------|--------------|
-| Cut Right                               | ⌃K           |
-| Go to Definition                        | F12          |
-| IntelliSense                            | ⇧⌘I          |
-| Open Problems                           | ⇧⌘M          |
-| Organize Imports                        | ⌥⇧O          |
-| Preview Definition                      | ⌥F12         |
-| Rename Occurrence                       | ⇧⌘L          |
-| Signature                               | ⌘KI          |
-| Signature help                          | ⇧⌘Space      |
+### Navigation and Search
 
+| Function             | Shortcut |
+| :------------------- | :------: |
+| Go to Definition     |   F12    |
+| Go to Line/Column... |    ⌃G    |
+| Show Explorer        |   ⇧⌘E    |
+
+### Code Assistance
+
+| Function       | Shortcut |
+| :------------- | :------: |
+| IntelliSense   |   ⇧⌘I    |
+| Signature help | ⇧⌘Space  |
+| Quick Fix...   |   ⇧⌘;    |
+
+### Debugging and Folding
+
+| Function             | Shortcut  |
+| :------------------- | :-------: |
+| Toggle Breakpoint    |    F9     |
+| Fold All             |   ⌘K ⌘à   |
+| Unfold All           |   ⌘K ⌘J   |
+| Toggle Fold          |   ⌘K ⌘L   |
+| Show Problems        |    ⇧⌘M    |
+| Cycle through errors | F8 or ⇧F8 |
+
+### UI and Views
+
+| Function                           | Shortcut |
+| :--------------------------------- | :------: |
+| Preview Definition                 |   ⌥F12   |
+| Toggle Panel Visibility            |    ⌘J    |
+| Save All                           |   ⌥⌘S    |
+| Toggle Primary Side Bar Visibility |    ⌘B    |
+| Git                                |   ⌃⇧G    |
+
+### Scrolling
+
+| Function         | Shortcut |
+| :--------------- | :------: |
+| Scroll Line Down |    ⌃↓    |
+| Scroll Line Up   |    ⌃↑    |
+
+### Bonus
+
+| Function               |         Shortcut         |
+| :--------------------- | :----------------------: |
+| Commands suggestions   |           ⌘P?            |
+| Column (box) selection | ⇧⌥ while drag your mouse |
+
+## Keyboard reference sheets
+
+![KeyboardReferenceSheet](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/KeyboardReferenceSheet.png)
 
 ## 📚 How to Use this Repository
 
